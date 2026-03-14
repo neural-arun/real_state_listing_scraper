@@ -1,0 +1,10 @@
+# Scraper v3 — Requirements
+# Install with: pip install -r requirements.txt
+
+httpx[http2]>=0.27.0
+beautifulsoup4>=4.12.0
+pandas>=2.0.0
+
+# ScraperAPI is a paid proxy service — no Python package needed.
+# Sign up free at: https://scraperapi.com
+# Pass your key via: --api-key YOUR_KEY or set $env:SCRAPERAPI_KEY
