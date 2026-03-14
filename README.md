@@ -57,5 +57,5 @@ All results are exported as CSV files. Each scraper is pre-configured to output 
 This tool is for educational purposes. Scraping websites may violate their Terms of Service. Always check `robots.txt`, respect scraping limits, and ensure you have permission to use the data you collect.
 
 ---
-**Author:** Antigravity (Advanced Agentic Coding Team)
+**Author:** Arun Yadav
 **Built for:** Freelance Property Listing Demand
